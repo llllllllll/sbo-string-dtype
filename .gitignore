@@ -1,0 +1,4 @@
+*.pyc
+*.so
+.gdb_history
+build/*
